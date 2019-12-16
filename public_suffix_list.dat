@@ -10718,7 +10718,7 @@ alwaysdata.net
 
 // Amazon CloudFront : https://aws.amazon.com/cloudfront/
 // Submitted by Donavan Miller <donavanm@amazon.com>
-cloudfront.net
+
 
 // Amazon Elastic Compute Cloud : https://aws.amazon.com/ec2/
 // Submitted by Luke Wells <psl-maintainers@amazon.com>
@@ -11783,7 +11783,6 @@ lab.ms
 // GitHub, Inc.
 // Submitted by Patrick Toomey <security@github.com>
 github.io
-githubusercontent.com
 
 // GitLab, Inc.
 // Submitted by Alex Hanselka <alex@gitlab.com>
